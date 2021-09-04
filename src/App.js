@@ -45,7 +45,7 @@ function App() {
           <Route path="/about">
           <About mode={mode}/>
           </Route>
-          <Route path="/home">
+          <Route path="">
             <TextForm mode={mode} showAlert={showAlert}></TextForm>
           </Route>
         </Switch>
