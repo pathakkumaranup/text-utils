@@ -57,6 +57,6 @@ export default function Navbar(props) {
     );
 }
 
-Navbar.prototype={
+Navbar.prototype = {
     title:PropTypes.string
 }
