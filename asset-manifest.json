@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/text-utilsnpm%20install%20--save%20gh-pages/static/css/main.5739ad41.chunk.css",
-    "main.js": "/text-utilsnpm%20install%20--save%20gh-pages/static/js/main.97738002.chunk.js",
-    "main.js.map": "/text-utilsnpm%20install%20--save%20gh-pages/static/js/main.97738002.chunk.js.map",
-    "runtime-main.js": "/text-utilsnpm%20install%20--save%20gh-pages/static/js/runtime-main.fb0c8975.js",
-    "runtime-main.js.map": "/text-utilsnpm%20install%20--save%20gh-pages/static/js/runtime-main.fb0c8975.js.map",
-    "static/js/2.d0ceed67.chunk.js": "/text-utilsnpm%20install%20--save%20gh-pages/static/js/2.d0ceed67.chunk.js",
-    "static/js/2.d0ceed67.chunk.js.map": "/text-utilsnpm%20install%20--save%20gh-pages/static/js/2.d0ceed67.chunk.js.map",
-    "static/js/3.7be1bd5b.chunk.js": "/text-utilsnpm%20install%20--save%20gh-pages/static/js/3.7be1bd5b.chunk.js",
-    "static/js/3.7be1bd5b.chunk.js.map": "/text-utilsnpm%20install%20--save%20gh-pages/static/js/3.7be1bd5b.chunk.js.map",
-    "index.html": "/text-utilsnpm%20install%20--save%20gh-pages/index.html",
-    "static/css/main.5739ad41.chunk.css.map": "/text-utilsnpm%20install%20--save%20gh-pages/static/css/main.5739ad41.chunk.css.map",
-    "static/js/2.d0ceed67.chunk.js.LICENSE.txt": "/text-utilsnpm%20install%20--save%20gh-pages/static/js/2.d0ceed67.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/text-utilsnpm%20install%20--save%20gh-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/text-utils/static/css/main.5739ad41.chunk.css",
+    "main.js": "/text-utils/static/js/main.97738002.chunk.js",
+    "main.js.map": "/text-utils/static/js/main.97738002.chunk.js.map",
+    "runtime-main.js": "/text-utils/static/js/runtime-main.c6e692d3.js",
+    "runtime-main.js.map": "/text-utils/static/js/runtime-main.c6e692d3.js.map",
+    "static/js/2.d0ceed67.chunk.js": "/text-utils/static/js/2.d0ceed67.chunk.js",
+    "static/js/2.d0ceed67.chunk.js.map": "/text-utils/static/js/2.d0ceed67.chunk.js.map",
+    "static/js/3.7be1bd5b.chunk.js": "/text-utils/static/js/3.7be1bd5b.chunk.js",
+    "static/js/3.7be1bd5b.chunk.js.map": "/text-utils/static/js/3.7be1bd5b.chunk.js.map",
+    "index.html": "/text-utils/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/text-utils/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.d0ceed67.chunk.js.LICENSE.txt": "/text-utils/static/js/2.d0ceed67.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/text-utils/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb0c8975.js",
+    "static/js/runtime-main.c6e692d3.js",
     "static/js/2.d0ceed67.chunk.js",
     "static/css/main.5739ad41.chunk.css",
     "static/js/main.97738002.chunk.js"
